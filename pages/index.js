@@ -26,8 +26,8 @@ export default function Home() {
       </motion.div>
 
       <div className="h-14 md:h-20 text-sm md:text-normal font-mono flex justify-center items-center fixed bottom-0 w-screen bg-gray-800 text-gray-100">
-        <div class="relative">
-          <div class="py-12 animate-marquee whitespace-nowrap">
+        <div className="relative">
+          <div className="py-12 animate-marquee whitespace-nowrap">
             <span className="mx-1">The page is under design maintenance *</span>
             <span className="mx-1">The page is under design maintenance *</span>
             <span className="mx-1">The page is under design maintenance *</span>
@@ -35,7 +35,7 @@ export default function Home() {
             <span className="mx-1">The page is under design maintenance *</span>
           </div>
 
-          <div class="absolute top-0 py-12 animate-marquee2 whitespace-nowrap">
+          <div className="absolute top-0 py-12 animate-marquee2 whitespace-nowrap">
             <span className="mx-1">The page is under design maintenance *</span>
             <span className="mx-1">The page is under design maintenance *</span>
             <span className="mx-1">The page is under design maintenance *</span>
