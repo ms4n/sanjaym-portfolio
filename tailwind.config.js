@@ -10,9 +10,10 @@ module.exports = {
     extend: {
       fontFamily: {
         playfair: ["Playfair Display", "serif"],
+        inter: ["Inter", "sans-serif"],
       },
       colors: {
-        "main-color": "#EDE4FF",
+        "main-color": "#CCCCFF",
       },
     },
   },
