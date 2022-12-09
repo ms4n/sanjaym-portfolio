@@ -1,0 +1,11 @@
+Model Information:
+* title:	Badass exosuit
+* source:	https://sketchfab.com/3d-models/badass-exosuit-5a94afcec4f44467b509b2d6a7c93ea6
+* author:	pinguinoconpulgares (https://sketchfab.com/pinguinoconpulgares)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Badass exosuit" (https://sketchfab.com/3d-models/badass-exosuit-5a94afcec4f44467b509b2d6a7c93ea6) by pinguinoconpulgares (https://sketchfab.com/pinguinoconpulgares) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
